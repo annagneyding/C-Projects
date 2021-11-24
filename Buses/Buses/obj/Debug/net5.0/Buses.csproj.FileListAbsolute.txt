@@ -1,0 +1,16 @@
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.csprojAssemblyReference.cache
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.AssemblyInfoInputs.cache
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.AssemblyInfo.cs
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Buses\Buses\bin\Debug\net5.0\Buses.exe
+E:\VisualStudio\Buses\Buses\bin\Debug\net5.0\Buses.deps.json
+E:\VisualStudio\Buses\Buses\bin\Debug\net5.0\Buses.runtimeconfig.json
+E:\VisualStudio\Buses\Buses\bin\Debug\net5.0\Buses.runtimeconfig.dev.json
+E:\VisualStudio\Buses\Buses\bin\Debug\net5.0\Buses.dll
+E:\VisualStudio\Buses\Buses\bin\Debug\net5.0\ref\Buses.dll
+E:\VisualStudio\Buses\Buses\bin\Debug\net5.0\Buses.pdb
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.dll
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\ref\Buses.dll
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.pdb
+E:\VisualStudio\Buses\Buses\obj\Debug\net5.0\Buses.genruntimeconfig.cache
